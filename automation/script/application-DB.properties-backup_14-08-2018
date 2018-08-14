@@ -1,0 +1,11 @@
+------------------------------Server properties-----------------------------
+#Local AP UAT3
+bonecp.driverClass=oracle.jdbc.OracleDriver
+bonecp.url=jdbc:oracle:thin@test.tes.com
+bonecp.username=WMEBANK_USER
+bonecp.password=ENC(dsfkj@#$%^&*()/ksfjlskjsfksjlkjldskfjlfjkds)
+
+#properties to support
+path.keystore=/var/application/glue/glue-idp.jks
+crypto.provider=SunJCE
+crypto.keyStoreType=JCEKS

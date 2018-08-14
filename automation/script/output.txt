@@ -1,0 +1,11 @@
+------------------------------Server properties-----------------------------
+#Local AP UAT3
+bonecp.driverClass=
+bonecp.url=
+bonecp.username=
+bonecp.password=
+
+#properties to support
+path.keystore=
+crypto.keyStoreType=JCEKS
+	
